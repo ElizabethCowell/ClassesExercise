@@ -1,0 +1,16 @@
+C:\Users\eholy\repos\ClassesExercise\bin\Debug\net5.0\ClassesExercise.exe
+C:\Users\eholy\repos\ClassesExercise\bin\Debug\net5.0\ClassesExercise.deps.json
+C:\Users\eholy\repos\ClassesExercise\bin\Debug\net5.0\ClassesExercise.runtimeconfig.json
+C:\Users\eholy\repos\ClassesExercise\bin\Debug\net5.0\ClassesExercise.runtimeconfig.dev.json
+C:\Users\eholy\repos\ClassesExercise\bin\Debug\net5.0\ClassesExercise.dll
+C:\Users\eholy\repos\ClassesExercise\bin\Debug\net5.0\ref\ClassesExercise.dll
+C:\Users\eholy\repos\ClassesExercise\bin\Debug\net5.0\ClassesExercise.pdb
+C:\Users\eholy\repos\ClassesExercise\obj\Debug\net5.0\ClassesExercise.csprojAssemblyReference.cache
+C:\Users\eholy\repos\ClassesExercise\obj\Debug\net5.0\ClassesExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eholy\repos\ClassesExercise\obj\Debug\net5.0\ClassesExercise.AssemblyInfoInputs.cache
+C:\Users\eholy\repos\ClassesExercise\obj\Debug\net5.0\ClassesExercise.AssemblyInfo.cs
+C:\Users\eholy\repos\ClassesExercise\obj\Debug\net5.0\ClassesExercise.csproj.CoreCompileInputs.cache
+C:\Users\eholy\repos\ClassesExercise\obj\Debug\net5.0\ClassesExercise.dll
+C:\Users\eholy\repos\ClassesExercise\obj\Debug\net5.0\ref\ClassesExercise.dll
+C:\Users\eholy\repos\ClassesExercise\obj\Debug\net5.0\ClassesExercise.pdb
+C:\Users\eholy\repos\ClassesExercise\obj\Debug\net5.0\ClassesExercise.genruntimeconfig.cache
